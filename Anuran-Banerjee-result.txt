@@ -1,0 +1,19 @@
+Number of records: 4898
+
+=== Initial Implementation === 
+Accuracy: 0.9099
+
+=== Cross-validation === 
+1-th fold Accuracy: 0.8904
+2-th fold Accuracy: 0.9321
+3-th fold Accuracy: 0.8807
+4-th fold Accuracy: 0.8928
+5-th fold Accuracy: 0.9247
+6-th fold Accuracy: 0.8904
+7-th fold Accuracy: 0.9124
+8-th fold Accuracy: 0.8910
+9-th fold Accuracy: 0.8904
+10-th fold Accuracy: 0.9099
+
+=== After Cross-validation === 
+Average accuracy: 0.9015
